@@ -5,3 +5,4 @@ console.log('branch2');
 console.log('branch4');
 console.log('branch5');
 console.log('branch6');
+console.log('branch7');
